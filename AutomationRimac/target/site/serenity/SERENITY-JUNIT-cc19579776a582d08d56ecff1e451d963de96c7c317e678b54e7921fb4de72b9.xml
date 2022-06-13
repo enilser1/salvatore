@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Realizar compras de artículos" skipped="0" tests="1" time="33.73" timestamp="2022-06-13 04:01:15"><testcase name="Flujo 2"><failure message="&#10;Expected: &quot;18,00 EUR&quot;&#10;     but: was &quot;19,00 EUR&quot;" type="java.lang.AssertionError">
+Expected: "18,00 EUR"
+     but: was "19,00 EUR"</failure><system-err>
+Expected: "18,00 EUR"
+     but: was "19,00 EUR"&#13;
+com.rimac.stepdefinitions.Flujo1Steps.elPrecioDeEntrematicDITECZENEsDeEuros(Flujo1Steps.java:87)&#13;
+✽.el precio de Entrematic DITEC ZEN2 es de 18,00 EUR en total(src/test/resources/features/Flujo1.feature:28)&#13;
+</system-err></testcase></testsuite>
